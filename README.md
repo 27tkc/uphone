@@ -2,8 +2,6 @@
 
 Banana-Uphone is a stunning clone of Apple's iPhone 15 Pro product page, built with **React.js**, **Tailwind CSS**, **Three.js**, and **GSAP**. It delivers an immersive, interactive experience showcasing the iPhone 15 Pro in a variety of colors and shapes — all wrapped in smooth animations and modern web practices.
 
-If you're just starting or run into bugs, feel free to join our **Discord community of over 27k+ members** — a friendly space to learn, collaborate, and get help.
-
 ---
 
 ## 🤖 Introduction
